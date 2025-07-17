@@ -52,7 +52,7 @@ python scriptname.py
 https://www.centrecom.com.au/laptops?view=category
 ```
 
-4. The script will begin scraping all pages until no more products are found.
+4. The script will begin scraping all pages, but repeating the last page so control c on the script after it gets and saves the last page.
 
 ---
 
