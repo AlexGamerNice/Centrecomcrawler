@@ -2,8 +2,9 @@
 
 # Centrecom Laptop Web Scraper
 
-This Python script scrapes laptop product data from Centrecom's website and saves the results in both JSON and CSV formats.<br>
-Literally generated this readme with chatgpt. Still it could be useful for a specific purpose.
+This Python script scrapes product data (originally for laptops) from Centrecom's website and saves the results in both JSON and CSV formats.
+
+Literally generated this readme (and code) with chatgpt. Still it could be useful.
 
 ---
 
