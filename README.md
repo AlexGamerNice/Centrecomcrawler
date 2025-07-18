@@ -67,6 +67,7 @@ https://www.centrecom.com.au/laptops?view=category
 ## 🐞 Known Bugs / Limitations
 
 * **New pages dont stop:** When doing the scan it will not stop scanning even if there is no more new laptops, this is because on the centrecom website if you go `&pagenumber=` +1 and there is no more pages it will just load the last page
+* **Requiring filters:** When doing a scan you NEED to enable a filter no idea why cause I didnt program this but hey its a thing.
 
 ---
 
