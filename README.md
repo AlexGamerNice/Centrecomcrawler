@@ -1,6 +1,6 @@
 
 
-# Centrecom Laptop Web Scraper
+# Centrecom Web Scraper
 
 This Python script scrapes product data (originally for laptops) from Centrecom's website and saves the results in both JSON and CSV formats.
 
