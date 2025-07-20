@@ -84,8 +84,3 @@ https://www.centrecom.com.au/laptops?view=category
 This script is for **educational and personal use only**. Please ensure that your scraping activity complies with Centrecom’s [Terms of Service](https://www.centrecom.com.au/terms).
 
 ---
-
-```
-
-You can now save this as `README.md` in the same directory as your script. Let me know if you want help turning this into a GitHub project or adding a license file.
-```
